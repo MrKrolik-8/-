@@ -2,7 +2,8 @@
  To play, simply press on the gigantic play button, then type doom.exe into the console.
 The name is in Russian to pay homage to the Runet + Ruski music that have both got me this far in CS, along with the intermediate Russian I can speak/understand.
 
-P.S, DON'T ASK FOR ME TO DO SOMETHING ABOUT THE ZOOM, I'M NOT BEING PAYED ENOUGH (IF AT ALL) TO GIVE A SHIT.
+P.S, don't ask me to do something about the zoom/sfx, I'm not being payed enough (if at all) to give a rats ass.
+Made by the best programmer in SHS, Liam Kennedy.
 
 НАСЛАЖДАТЬСЯ!
 link: https://mrkrolik-8.github.io/-/
