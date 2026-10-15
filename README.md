@@ -5,3 +5,4 @@ The name is in Russian to pay homage to the Runet + Ruski music that have both g
 P.S, DON'T ASK FOR ME TO DO SOMETHING ABOUT THE ZOOM, I'M NOT BEING PAYED ENOUGH (IF AT ALL) TO GIVE A SHIT.
 
 НАСЛАЖДАТЬСЯ!
+link: https://mrkrolik-8.github.io/-/
