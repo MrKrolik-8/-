@@ -5,7 +5,7 @@ The name is in Russian to pay homage to the Runet + Ruski music that have both g
 P.S, don't ask me to do something about the zoom/sfx, I'm not being payed enough (if at all) to give a rats ass.
 Made by the best webdev in SHS, Liam Kennedy. (Satire btw)
 
-link: https://mrkrolik-8.github.io/-/
+link: https://mrkrolik-8.github.io/dumovskiyeshalosti/
 
 НАСЛАЖДАТЬСЯ!
 
